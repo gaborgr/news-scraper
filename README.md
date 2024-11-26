@@ -1,4 +1,4 @@
-## 📰 News Scraper <img src="https://github.com/user-attachments/assets/377b00ee-8802-447c-aec4-f47754fd9b11" width="120px" />
+## 📰 News Scraper <img src="https://github.com/user-attachments/assets/a91aca68-1ff0-4fe1-ae7e-c1c0be7b5639" width="20px" />
 
 <div align="center"><img src="https://github.com/user-attachments/assets/b1c5a9c4-ff1a-4324-83e6-beba7b97a2bd"  /> </div>
 
